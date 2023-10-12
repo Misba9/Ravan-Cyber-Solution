@@ -6545,7 +6545,7 @@ textarea.form-control-lg {
 
 .sticky-top {
     position: -webkit-sticky;
-    position: sticky;
+    /* position: sticky; */
     top: 0;
     z-index: 1020
 }
