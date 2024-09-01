@@ -76,7 +76,7 @@ h6 {
 }
 
 #main_menu {
-  background:#87CEEB;
+  /* background:#87CEEB; */
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 10px #ddd;
 }
@@ -225,7 +225,7 @@ h6 {
 
 /* contact start */
 .contact-c {
-  background-color: rgb(238, 255, 220);
+  /* background-color: rgb(238, 255, 220); */
   /* height: 95vh; */
   /* flex: 0 0 auto; */
   height: auto;
